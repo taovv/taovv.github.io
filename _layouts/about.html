@@ -1,25 +1,60 @@
 ---
-layout: base 
+layout: base
 ---
 
 <div class="about">
-  <div class="profile">
-    <img class="selfie" alt="{{ site.author.name }}" src="{{ site.author.selfie }}" />
-    <div class="info">
-      <div class="title">{{ site.author.name }}</div>
-      <div class="description">{{ site.author.desc }}</div>
+    <div class="profile">
+        <img class="selfie" alt="{{ site.author.name }}" src="{{ site.author.selfie }}"/>
+        <div class="info">
+            <div class="title">{{ site.author.name }}</div>
+            <div class="description">{{ site.author.desc }}</div>
+        </div>
     </div>
-  </div>
 
-  <div class="content">
-    {{ content }}
-    </br>
     <div class="social-layer">
-      <div class="social-icons">
-        <ul>
-          {% include icons.html %}
-        </ul>
-      </div>
+        <div class="social-icons">
+            <ul>
+                {% include icons.html %}
+            </ul>
+        </div>
     </div>
-  </div>
+    <div class="post-line"></div>
+    <!--  bio  -->
+    {{ content }}
+
+    <!--    -->
+<!--    <div class="tags">-->
+<!--        <div class="tags-item" id="awards">-->
+<!--            <svg class="tags-item-icon"-->
+<!--                 xmlns="http://www.w3.org/2000/svg"-->
+<!--                 width="20"-->
+<!--                 height="20"-->
+<!--                 viewBox="0 0 24 24"-->
+<!--                 fill="none"-->
+<!--                 stroke="currentColor"-->
+<!--                 stroke-width="2"-->
+<!--                 stroke-linecap="round"-->
+<!--                 stroke-linejoin="round"-->
+<!--                 class="feather feather-tag">-->
+<!--                <path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path>-->
+<!--                <line x1="7" y1="7" x2="7.01" y2="7"></line>-->
+<!--            </svg>-->
+<!--            <h2 class="tags-item-label">Awards</h2>-->
+<!--            {% for award in site.data.awards %}-->
+<!--            <a class="tags-post" href="#">-->
+<!--                <div>-->
+<!--                    <span class="tags-post-title">{{ award.title }}</span>-->
+<!--                    <div class="tags-post-line"></div>-->
+<!--                </div>-->
+<!--                <span class="tags-post-meta">-->
+<!--                    <time datetime="{{ award.date }}">-->
+<!--                        {{ award.date | date:"%Y-%m-%d" }}-->
+<!--                    </time>-->
+<!--                </span>-->
+<!--            </a>-->
+<!--            {% endfor %}-->
+<!--        </div>-->
+<!--    </div>-->
+
+    <br/>
 </div>

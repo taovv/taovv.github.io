@@ -33,28 +33,24 @@ h6 {
   font-family: $sans-serif;
   line-height: normal;
 }
-
+//p,
 li,
-ul,
-p {
+ul{
   color: $default-shade;
-  font-family: $sans-serif;
-  line-height: normal;
-}
-
-li,
-ul {
-  padding: 0.1rem 0.2rem 0.2rem 0.7rem;
+  //font-family: $sans-serif;
+  font-family: $serif-primary;
+  line-height: 1.5;
 }
 
 a {
-  color: #999;
+  //color: #999;
+  color: #52adc8;
   text-decoration: none;
 }
 
 blockquote {
   border-left: .25rem solid $grey-2;
-  color: $grey-1;
+  //color: $grey-1;
   margin: .8rem 0;
   padding: .5rem 1rem;
 

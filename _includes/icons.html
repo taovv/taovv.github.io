@@ -1,6 +1,6 @@
 {% if site.social.email %}
 <li>
-  <a href="mailto:{{ site.author.email }}" title="email">
+  <a href="mailto:{{ site.author.email }}" title="{{ site.author.email }}">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
       <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -235,6 +235,17 @@
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>
       <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
+{% if site.social.yuque %}
+<li>
+  <a href="https://www.yuque.com/{{ site.social.yuque }}" title="{{ site.social.default_txt }} Blog">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-blogger fa-stack-1x fa-inverse"></i>
     </span>
   </a>
 </li>

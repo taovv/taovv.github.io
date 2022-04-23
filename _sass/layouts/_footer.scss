@@ -1,16 +1,23 @@
 .social-layer {
-  display: inline-block;
+  //display: inline-block;
   text-align: center;
   width: 100%;
   color: lighten(gray, 30%);
-  font-size: 0.9em;
+  font-size: 0.75em;
 
   .social-icons {
     ul {
      list-style: none;
       li {
         display: inline;
+        color: #999;
       }
     }
+  }
+
+  li,
+  ul {
+    padding: 0.1rem 0.1rem 0.1rem 0.1rem;
+    color: #999;
   }
 }

@@ -1,15 +1,17 @@
 # Site settings
-title: A.P
+title: Tao's page
 baseurl: "/"
 url: "https://taovv.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
-# Author
 author:
-  name: KyeongSeob Sim
+  name: Tao Wang
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  email: taovvang@gmail.com
+  selfie: assets/img/pic.jpg
+  ico: assets/tao.ico
+  cv_ch: assets/taowang_CV_CH.pdf
+  cv:
 
 # social
 social:
@@ -17,13 +19,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
+  github: taovv
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -31,10 +33,11 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:
+  yuque: taoo
   default_txt: "Follow On"
 
 # Build settings
@@ -59,4 +62,3 @@ exclude:
   - "*.gem"
   - "LICENSE"
   - "READE.md"
-  - "screenshot.png"
