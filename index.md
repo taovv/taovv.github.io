@@ -72,7 +72,19 @@ use of unmarked data to improve the performance of the model. This work was publ
 - [Aug 2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
 - [Dec 2019] National scholarship (Top 1% student)
 - [Dec 2016] Guangxi Autonomous Region People's Government Scholarship (Top 2% student)
+- [Dec 2018] National Encouragement Scholarship (Top 10% student)
+- [Dec 2017] National Encouragement Scholarship (Top 10% student)
 - [Otc 2021] Excellent Academic Scholarship, _First Prize_ (Top 10% student)
 - [Otc 2019] Excellent Academic Scholarship, _First Prize_ (Top 10% student)
 - [Otc 2018] Excellent Academic Scholarship, _First Prize_ (Top 10% student)
 - [Otc 2017] Excellent Academic Scholarship, _First Prize_ (Top 10% student)
+
+<br>
+
+## Honors
+
+- [2019] The star of self-improvement, _GUET_.
+- [2019] Outstanding Communist, _GUET_.
+- [2019] Pexpertmaker to Merit Student & Outstanding Student Cadre & Excellent Communist Youth League member, _GUET_.
+- [2018] Pexpertmaker to Merit Student & Outstanding Student Cadre & Excellent Communist Youth League member, _GUET_.
+- [2017] Pexpertmaker to Merit Student & Outstanding Student Cadre & Excellent Communist Youth League member, _GUET_.
