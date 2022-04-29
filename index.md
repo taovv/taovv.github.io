@@ -5,13 +5,14 @@ layout: about
 [//]: # (## About Me)
 
 I am a three-year M.S. student at the College of Computer Science and Software Engineering, Shenzhen University (SZU),
-supervised by Prof. [Zhihui Lai](#). Previously, I received my B.S. degree in Computer Science from
+supervised by Prof. [Zhihui Lai](https://www.scholat.com/laizhihui). Previously, I received my B.S. degree in Computer Science from
 Guilin University of Electronic Technology (GUET) in 2020.
 
 My research interests are in Computer Vision, including but
 not limited to:
 
 _Medical Image Segmentation / Semantic Segmentation / Semi-supervised Learning / Self-supervised Learning_.
+
 <br>
 
 ## News
