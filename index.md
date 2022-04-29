@@ -9,8 +9,9 @@ supervised by Prof. [Zhihui Lai](#). Previously, I received my B.S. degree in Co
 Guilin University of Electronic Technology (GUET) in 2020.
 
 My research interests are in Computer Vision, including but
-not limited to _Medical Image Segmentation / Semantic Segmentation / Semi-supervised Learning / Self-supervised
-Learning_.
+not limited to:
+
+_Medical Image Segmentation / Semantic Segmentation / Semi-supervised Learning / Self-supervised Learning_.
 <br>
 
 ## News
@@ -66,11 +67,11 @@ use of unmarked data to improve the performance of the model. This work was publ
 
 ## Selected Awards & Scholarships
 
-- [Dec 2021] "Huawei Cup" China Graduate Mathematical Contest in Modeling, _Second Prize_
+- [Dec 2021] <b>"Huawei Cup" China Graduate Mathematical Contest in Modeling, _Second Prize_</b>
 - [May 2018] "Lanqiao Cup" National Software and Information Technology Professional
   Talent Competition, _Third Prize_
 - [Aug 2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
-- [Dec 2019] National scholarship (Top 1% student)
+- [Dec 2019] <b>National scholarship (Top 1% student)</b>
 - [Dec 2016] Guangxi Autonomous Region People's Government Scholarship (Top 2% student)
 - [Dec 2018] National Encouragement Scholarship (Top 10% student)
 - [Dec 2017] National Encouragement Scholarship (Top 10% student)
