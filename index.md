@@ -46,7 +46,7 @@ Guilin University of Electronic Technology, <em>Guilin, Guangxi</em>
 > <b>Tao Wang</b>, Jianglin Lu, Zhihui Lai, Jiajun Wen, Heng Kong.<br>
 > <em>International Joint Conference on Artificial Intelligence</em> (<i><b>IJCAI</b></i>), 2022 <br>
 
-> <b><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-02375-0_23.pdf" target="_blank">TFNet: Transformer Fusion Network for Ultrasound Image Segmentation.</a></b> <br>
+> <b><a href="https://taovv.github.io/assets/TFNet.pdf" target="_blank">TFNet: Transformer Fusion Network for Ultrasound Image Segmentation.</a></b> <br>
 > [<a href="https://github.com/taovv/TFNet" target="_blank">code</a>][<a href="https://www.aliyundrive.com/s/oDdMwf4FrEs" target="_blank">Video</a>][<a href="https://www.aliyundrive.com/s/cc6HVyctitS" target="_blank">Slide</a>]<br>
 > <b>Tao Wang</b>, Zhihui Lai, Heng Kong.<br>
 > <em>IEEE Asian Conference on Pattern Recognition</em> (<i><b>ACPR</b></i>), 2021, Oral <br>
