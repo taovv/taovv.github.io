@@ -41,7 +41,7 @@ Guilin University of Electronic Technology, <em>Guilin, Guangxi</em>
 
 ## Publications
 
-> <b><a href="#" target="_blank">Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation.</a></b>
+> <b><a href="https://taovv.github.io/assets/UGPCL.pdf" target="_blank">Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation.</a></b>
 > [<a href="https://github.com/taovv/UGPCL" target="_blank">code</a>][<a href="#" target="_blank">Video</a>]<br>
 > <b>Tao Wang</b>, Jianglin Lu, Zhihui Lai, Jiajun Wen, Heng Kong.<br>
 > <em>International Joint Conference on Artificial Intelligence</em> (<i><b>IJCAI</b></i>), 2022 <br>
