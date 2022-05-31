@@ -12,8 +12,8 @@ author:
   location: Shenzhen
   selfie: assets/img/pic.jpg
   ico: assets/tao.ico
-  cv_ch: assets/taowang_CV_CH.pdf
-  cv:
+  cv_ch:  assets/taowang_CV_CH.pdf
+  cv: assets/TaoWang_CV_EN.pdf
 
 # social
 social:
