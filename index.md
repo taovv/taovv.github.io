@@ -11,7 +11,10 @@ Guilin University of Electronic Technology (GUET) in 2020.
 My research interests are in Computer Vision, including but
 not limited to:
 
-_Medical Image Segmentation / Semantic Segmentation / Semi-supervised Learning / Self-supervised Learning_.
+- Medical Image Segmentation
+- Semantic Segmentation
+- Semi-supervised Learning
+- Self-supervised Learning
 
 <br>
 
