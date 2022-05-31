@@ -40,12 +40,12 @@ Guilin University of Electronic Technology, <em>Guilin, Guangxi</em>
 ## Publications
 
 > <b><a href="#" target="_blank">Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation.</a></b>
-> [<a href="#" target="_blank">paper</a>][<a href="#" target="_blank">code</a>][<a href="#" target="_blank">Video</a>]<br>
+> [<a href="https://github.com/taovv/UGPCL" target="_blank">code</a>][<a href="#" target="_blank">Video</a>]<br>
 > <b>Tao Wang</b>, Jianglin Lu, Zhihui Lai, Jiajun Wen, Heng Kong.<br>
 > <em>International Joint Conference on Artificial Intelligence</em> (<i><b>IJCAI</b></i>), 2022 <br>
 
-> <b><a href="#" target="_blank">TFNet: Transformer Fusion Network for Ultrasound Image Segmentation.</a></b> <br>
-> [<a href="#" target="_blank">paper</a>][<a href="#" target="_blank">code</a>][Video](https://www.aliyundrive.com/s/oDdMwf4FrEs)<br>
+> <b><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-02375-0_23.pdf" target="_blank">TFNet: Transformer Fusion Network for Ultrasound Image Segmentation.</a></b> <br>
+> [<a href="#https://github.com/taovv/TFNet" target="_blank">code</a>][[Video](https://www.aliyundrive.com/s/oDdMwf4FrEs)]<br>
 > <b>Tao Wang</b>, Zhihui Lai, Heng Kong.<br>
 > <em>IEEE Asian Conference on Pattern Recognition</em> (<i><b>ACPR</b></i>), 2021, Oral <br>
 
