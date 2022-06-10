@@ -70,7 +70,7 @@ use of unmarked data to improve the performance of the model. This work was publ
 
 ## Selected Awards & Scholarships
 
-- [Dec 2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b>[<a href="https://taovv.github.io/assets/UGPCL.pdf" target="_blank">Paper</a>]
+- [Dec 2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b> [<a href="https://taovv.github.io/assets/math_model.pdf" target="_blank">Paper</a>]
 - [May 2018] "Lanqiao Cup" National Software and Information Technology Professional
   Talent Competition, _Third Prize_
 - [Aug 2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
