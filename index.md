@@ -71,13 +71,13 @@ use of unmarked data to improve the performance of the model. This work was publ
 
 ## Participation in Conferences and Programs
 
-- <b>VALSE 2021 (Vision And Learning SEminar)</b><br>
+- <b>[VALSE 2021](http://valser.org/2021/) (Vision And Learning SEminar)</b><br>
   Hangzhou China, Oct. 8-10, 2021
   
-- <b>ACPR 2022</b><br>
+- <b>[ACPR 2021](http://brain.korea.ac.kr/acpr/) (The 6th Asian Conference on Pattern Recognition)</b><br>
   Online, Nov. 9-11, 2021
   
-- <b>WSB 2022 (Winter School on Biometrics)</b><br>
+- <b>[WSB 2022](https://www.comp.hkbu.edu.hk/wsb2022/) (IAPR/IEEE Winter School on Biometrics)</b><br>
   Shenzhen, China, Jan. 9-13, 2022
 
 <br>
