@@ -18,9 +18,9 @@ not limited to:
 <br>
 
 ## News
----
+
 - <b>[Apr 2022] One paper accepted by IJCAI 2022</b><br>
-- [Mar 2021] One paper **TFNet** accepted by ACPR 2022 (oral)<br>
+- [Mar 2021] One paper **TFNet** accepted by ACPR 2021 (oral)<br>
 
 <br>
 
@@ -61,11 +61,24 @@ Responsible for medical image segmentation algorithms in the project:
 - We collected and made two breast tumor ultrasound image data sets with segmentation annotations, and designed an 
 ultrasound image segmentation model based on the two datasets. This work is in progress.
 - A feature fusion network based on transformer is studied. This method aims to solve the problem of discontinuity of 
-lesion area in ultrasound images under supervision. This work is published in ACPR 2022 as oral presentation.
+lesion area in ultrasound images under supervision. This work is published in ACPR 2021 as oral presentation.
 - We study a medical image segmentation algorithm based on pixel contrastive learning in semi-supervised environment. 
 This method uses uncertainty to guide pixels with high confidence for contrastive learning, so as to make efficient 
 use of unmarked data to improve the performance of the model. This work was published in IJCAI-ECAI 2022.
 
+
+<br>
+
+## Participation in Conferences and Programs
+
+- <b>VALSE 2021 (Vision And Learning SEminar)</b><br>
+  Hangzhou China, Oct. 8-10, 2021
+  
+- <b>ACPR 2022</b><br>
+  Online, Nov. 9-11, 2021
+  
+- <b>WSB 2022 (Winter School on Biometrics)</b><br>
+  Shenzhen, China, Jan. 9-13, 2022
 
 <br>
 
