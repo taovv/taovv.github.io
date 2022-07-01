@@ -18,13 +18,13 @@ layout: about
 ## Education
 
 - <b>Shenzhen University, <em>Shenzhen, Guangdong</em></b><br>
-  <div>Sep 2020 - now： Master's degree of Computer Science.</div><br>
-  <div>GPA: 3.36/4.0, Ranking 12/76.</div><br>
-  <div>Interest: Medical Image Segmentation, Semi-supervised Learning.</div>
+  Sep 2020 - now： Master's degree of Computer Science.<br>
+  GPA: 3.36/4.0, Ranking 12/76.<br>
+  Interest: Medical Image Segmentation, Semi-supervised Learning.
   
 - <b>Guilin University of Electronic Technology, <em>Guilin, Guangxi</em></b><br>
-  <div>Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.</div><br>
-  <div>GPA: 90.37/100, Ranking 2/181.</div>
+  Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.<br>
+  GPA: 90.37/100, Ranking 2/181.
 
 <br>
 
@@ -69,7 +69,7 @@ Responsible for medical image segmentation algorithms in the project:
 
 ## Selected Awards & Scholarships
 
-- [2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b> [<a href="https://taovv.github.io/assets/math_model.pdf" target="_blank">Paper</a>]
+- [2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b>[🔗](https://taovv.github.io/assets/math_model.pdf)
 - [2018] "Lanqiao Cup" National Software and Information Technology Competition, _Third Prize_
 - [2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
 - [2019] <b>National scholarship (Top 1% student)</b>
