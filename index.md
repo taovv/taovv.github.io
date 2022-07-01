@@ -20,12 +20,12 @@ My research interests are in Computer Vision, including but not limited to: _Med
 
 ## Education
 
-- Shenzhen University, <em>Shenzhen, Guangdong</em><br>
+- <b>Shenzhen University, <em>Shenzhen, Guangdong</em></b><br>
   Sep 2020 - now： Master's degree of Computer Science.<br>
   GPA: 3.36/4.0, Ranking 12/76<br>
   Interest: Medical Image Segmentation / Semi-supervised Learning
   
-- Guilin University of Electronic Technology, <em>Guilin, Guangxi</em><br>
+- <b>Guilin University of Electronic Technology, <em>Guilin, Guangxi</em></b><br>
   Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.<br>
   GPA: 90.37/100, Ranking 2/181
 
@@ -72,9 +72,8 @@ Responsible for medical image segmentation algorithms in the project:
 
 ## Selected Awards & Scholarships
 
-- [2021] <font size=5><b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b> [<a href="https://taovv.github.io/assets/math_model.pdf" target="_blank">Paper</a>]</font>
-- [2018] "Lanqiao Cup" National Software and Information Technology Professional
-  Talent Competition, _Third Prize_
+- [2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b> [<a href="https://taovv.github.io/assets/math_model.pdf" target="_blank">Paper</a>]
+- [2018] "Lanqiao Cup" National Software and Information Technology Competition, _Third Prize_
 - [2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
 - [2019] <b>National scholarship (Top 1% student)</b>
 - [2016] Guangxi Autonomous Region People's Government Scholarship (Top 2% student)
