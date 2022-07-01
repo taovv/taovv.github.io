@@ -7,17 +7,11 @@ layout: about
 I am a three-year M.S. student at the College of Computer Science and Software Engineering, Shenzhen University (SZU),
 supervised by Prof. <a href="https://www.scholat.com/laizhihui" target="_blank">Zhihui Lai</a>. Previously, I received my B.S. degree in Computer Science from
 Guilin University of Electronic Technology (GUET) in 2020.
-
-My research interests are in Computer Vision, including but
-not limited to:
-- _Medical Image Segmentation_
-- _Semantic Segmentation_
-- _Semi-supervised Learning_
-- _Self-supervised Learning_
+My research interests are in Computer Vision, including but not limited to: _Medical Image Segmentation_, _Semantic Segmentation_, _Semi-supervised Learning_, _Self-supervised Learning_.
 
 <br>
 
-## News
+## News!
 
 - <b>[Apr 2022] One paper accepted by IJCAI 2022</b><br>
 - [Mar 2021] One paper **TFNet** accepted by ACPR 2021 (oral)<br>
@@ -26,16 +20,14 @@ not limited to:
 
 ## Education
 
-Shenzhen University, <em>Shenzhen, Guangdong</em>
-
-- Sep 2020 - now： Master's degree of Computer Science.
-- GPA: 3.36/4.0, Ranking 12/76
-- Interest: Medical Image Segmentation / Semi-supervised Learning
-
-Guilin University of Electronic Technology, <em>Guilin, Guangxi</em>
-
-- Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.
-- GPA: 90.37/100, Ranking 2/181
+- Shenzhen University, <em>Shenzhen, Guangdong</em><br>
+  Sep 2020 - now： Master's degree of Computer Science.<br>
+  GPA: 3.36/4.0, Ranking 12/76<br>
+  Interest: Medical Image Segmentation / Semi-supervised Learning
+  
+- Guilin University of Electronic Technology, <em>Guilin, Guangxi</em><br>
+  Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.<br>
+  GPA: 90.37/100, Ranking 2/181
 
 <br>
 
@@ -58,13 +50,9 @@ Guilin University of Electronic Technology, <em>Guilin, Guangxi</em>
 <b>Diagnosis and classification of multimodal breast tumors</b><br>
 <b>NSFC</b>, <em>Sep 2020 ~ now</em><br>
 Responsible for medical image segmentation algorithms in the project:
-- We collected and made two breast tumor ultrasound image data sets with segmentation annotations, and designed an 
-ultrasound image segmentation model based on the two datasets. This work is in progress.
-- A feature fusion network based on transformer is studied. This method aims to solve the problem of discontinuity of 
-lesion area in ultrasound images under supervision. This work is published in ACPR 2021 as oral presentation.
-- We study a medical image segmentation algorithm based on pixel contrastive learning in semi-supervised environment. 
-This method uses uncertainty to guide pixels with high confidence for contrastive learning, so as to make efficient 
-use of unmarked data to improve the performance of the model. This work was published in IJCAI-ECAI 2022.
+- <div style="text-align:justify;text-justify:inter-ideograph">We collected and made two breast tumor ultrasound image data sets with segmentation annotations, and designed an ultrasound image segmentation model based on the two datasets. This work is in progress.</div>
+- <div style="text-align:justify;text-justify:inter-ideograph">A feature fusion network based on transformer is studied. This method aims to solve the problem of discontinuity of lesion area in ultrasound images under supervision. This work is published in ACPR 2021 as oral presentation.</div>
+- <div style="text-align:justify;text-justify:inter-ideograph">We study a medical image segmentation algorithm based on pixel contrastive learning in semi-supervised environment. This method uses uncertainty to guide pixels with high confidence for contrastive learning, so as to make efficient use of unmarked data to improve the performance of the model. This work was published in IJCAI-ECAI 2022.</div>
 
 
 <br>
@@ -84,7 +72,7 @@ use of unmarked data to improve the performance of the model. This work was publ
 
 ## Selected Awards & Scholarships
 
-- [2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b> [<a href="https://taovv.github.io/assets/math_model.pdf" target="_blank">Paper</a>]
+- [2021] <font size=5><b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b> [<a href="https://taovv.github.io/assets/math_model.pdf" target="_blank">Paper</a>]</font>
 - [2018] "Lanqiao Cup" National Software and Information Technology Professional
   Talent Competition, _Third Prize_
 - [2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
