@@ -4,10 +4,7 @@ layout: about
 
 [//]: # (## About Me)
 
-I am a three-year M.S. student at the College of Computer Science and Software Engineering, Shenzhen University (SZU),
-supervised by Prof. <a href="https://www.scholat.com/laizhihui" target="_blank">Zhihui Lai</a>. Previously, I received my B.S. degree in Computer Science from
-Guilin University of Electronic Technology (GUET) in 2020.
-My research interests are in Computer Vision, including but not limited to: _Medical Image Segmentation_, _Semantic Segmentation_, _Semi-supervised Learning_, _Self-supervised Learning_.
+<div style="text-align:justify;text-justify:inter-ideograph">I am a three-year M.S. student at the College of Computer Science and Software Engineering, Shenzhen University (SZU), supervised by Prof. <a href="https://www.scholat.com/laizhihui" target="_blank">Zhihui Lai</a>. Previously, I received my B.S. degree in Computer Science from Guilin University of Electronic Technology (GUET) in 2020. My research interests are in Computer Vision, including but not limited to: _Medical Image Segmentation_, _Semantic Segmentation_, _Semi-supervised Learning_, _Self-supervised Learning_.</div>
 
 <br>
 
