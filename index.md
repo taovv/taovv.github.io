@@ -69,13 +69,14 @@ Responsible for medical image segmentation algorithms in the project:
 
 ## Selected Awards & Scholarships
 
-- [2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b>[🔗](https://taovv.github.io/assets/math_model.pdf)
+- [2021] <b>National Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b>(Top 2%)[🔗](https://taovv.github.io/assets/math_model.pdf)
 - [2018] "Lanqiao Cup" National Software and Information Technology Competition, _Third Prize_
 - [2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
 - [2019] <b>China National Scholarship (Top 0.5% student)</b>
 - [2016] Guangxi Autonomous Region People's Government Scholarship (Top 2% student)
 - [2017,2018] National Encouragement Scholarship (Top 10% student)
 - [2017,2018,2019,2021] Excellent Academic Scholarship, _First Prize_ (Top 10% student)
+- [2020] Special Scholarship of Shenzhen University for Recommended Graduate
 
 <br>
 
