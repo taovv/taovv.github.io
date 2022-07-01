@@ -18,14 +18,14 @@ not limited to:
 <br>
 
 ## News
-
+---
 - <b>[Apr 2022] One paper accepted by IJCAI 2022</b><br>
-- [Mar 2021] One paper **TFNet** accepted by ACPR 2021 (oral)<br>
+- [Mar 2021] One paper **TFNet** accepted by ACPR 2022 (oral)<br>
 
 <br>
 
 ## Education
-
+---
 Shenzhen University, <em>Shenzhen, Guangdong</em>
 
 - Sep 2020 - now： Master's degree of Computer Science.
@@ -40,7 +40,7 @@ Guilin University of Electronic Technology, <em>Guilin, Guangxi</em>
 <br>
 
 ## Publications
-
+---
 > <b><a href="https://taovv.github.io/assets/UGPCL.pdf" target="_blank">Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation.</a></b>
 > [<a href="https://github.com/taovv/UGPCL" target="_blank">Code</a>][<a href="https://recorder-v3.slideslive.com/?share=66899&s=24d1d62b-b2fa-4ba4-b0a8-08749cf08120" target="_blank">Video</a>][<a href="https://www.aliyundrive.com/s/Xe8uB5kx2mi" target="_blank">Slide</a>]<br>
 > <b>Tao Wang</b>, Jianglin Lu, Zhihui Lai, Jiajun Wen, Heng Kong.<br>
@@ -54,6 +54,7 @@ Guilin University of Electronic Technology, <em>Guilin, Guangxi</em>
 <br>
 
 ## Research Experience
+---
 <b>Diagnosis and classification of multimodal breast tumors</b><br>
 <b>NSFC</b>, <em>Sep 2020 ~ now</em><br>
 Responsible for medical image segmentation algorithms in the project:
@@ -69,7 +70,7 @@ use of unmarked data to improve the performance of the model. This work was publ
 <br>
 
 ## Selected Awards & Scholarships
-
+---
 - [Dec 2021] <b>"Huawei Cup" China Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b> [<a href="https://taovv.github.io/assets/math_model.pdf" target="_blank">Paper</a>]
 - [May 2018] "Lanqiao Cup" National Software and Information Technology Professional
   Talent Competition, _Third Prize_
@@ -86,7 +87,7 @@ use of unmarked data to improve the performance of the model. This work was publ
 <br>
 
 ## Honors
-
+---
 - [2019] The star of self-improvement, _GUET_.
 - [2019] Outstanding Communist, _GUET_.
 - [2019] Pexpertmaker to Merit Student & Outstanding Student Cadre & Excellent Communist Youth League member, _GUET_.
