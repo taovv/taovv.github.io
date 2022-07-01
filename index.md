@@ -5,7 +5,7 @@ layout: about
 [//]: # (## About Me)
 
 I am a three-year M.S. student at the College of Computer Science and Software Engineering, Shenzhen University (SZU),
-supervised by Prof. [Zhihui Lai](https://www.scholat.com/laizhihui). Previously, I received my B.S. degree in Computer Science from
+supervised by Prof. <a href="https://www.scholat.com/laizhihui" target="_blank">Zhihui Lai</a>. Previously, I received my B.S. degree in Computer Science from
 Guilin University of Electronic Technology (GUET) in 2020.
 
 My research interests are in Computer Vision, including but
@@ -71,13 +71,13 @@ use of unmarked data to improve the performance of the model. This work was publ
 
 ## Participation in Conferences and Programs
 
-- <b>[VALSE 2021](http://valser.org/2021/) (Vision And Learning SEminar)</b><br>
+- <b><a href="http://valser.org/2021/" target="_blank">VALSE 2021</a> (Vision And Learning SEminar)</b><br>
   Hangzhou China, Oct. 8-10, 2021
   
-- <b>[ACPR 2021](http://brain.korea.ac.kr/acpr/) (The 6th Asian Conference on Pattern Recognition)</b><br>
+- <b><a href="http://brain.korea.ac.kr/acpr/" target="_blank">ACPR 2021</a> (The 6th Asian Conference on Pattern Recognition)</b><br>
   Online, Nov. 9-11, 2021
   
-- <b>[WSB 2022](https://www.comp.hkbu.edu.hk/wsb2022/) (IAPR/IEEE Winter School on Biometrics)</b><br>
+- <b><a href="https://www.comp.hkbu.edu.hk/wsb2022/" target="_blank">WSB 2022</a> (IAPR/IEEE Winter School on Biometrics)</b><br>
   Shenzhen, China, Jan. 9-13, 2022
 
 <br>
