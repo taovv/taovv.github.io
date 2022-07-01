@@ -57,7 +57,7 @@ Responsible for medical image segmentation algorithms in the project:
 ## Participation in Conferences and Programs
 
 - <b><a href="http://valser.org/2021/" target="_blank">VALSE 2021</a> (Vision And Learning SEminar)</b><br>
-  Hangzhou China, Oct. 8-10, 2021
+  Hangzhou, China, Oct. 8-10, 2021
   
 - <b><a href="http://brain.korea.ac.kr/acpr/" target="_blank">ACPR 2021</a> (The 6th Asian Conference on Pattern Recognition)</b><br>
   Online, Nov. 9-11, 2021
