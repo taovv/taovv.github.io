@@ -18,12 +18,12 @@ layout: about
 ## Education
 
 - <b>Shenzhen University, <em>Shenzhen, Guangdong</em></b><br>
-  Sep 2020 - now： Master's degree of Computer Science.<br>
+  Sep 2020 - now: Master's degree of Computer Science.<br>
   GPA: 3.36/4.0, Ranking 12/76.<br>
   Interest: Medical Image Segmentation, Semi-supervised Learning.
   
 - <b>Guilin University of Electronic Technology, <em>Guilin, Guangxi</em></b><br>
-  Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.<br>
+  Sep 2016 - Jun 2020: Bachelor's degree of Computer Science.<br>
   GPA: 90.37/100, Ranking 2/181.
 
 <br>
