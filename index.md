@@ -4,7 +4,7 @@ layout: about
 
 [//]: # (## About Me)
 
-<div style="text-align:justify;text-justify:inter-ideograph">I am a three-year M.S. student at the College of Computer Science and Software Engineering, Shenzhen University (SZU), supervised by Prof. <a href="https://www.scholat.com/laizhihui" target="_blank">Zhihui Lai</a>. Previously, I received my B.S. degree in Computer Science from Guilin University of Electronic Technology (GUET) in 2020. My research interests are in Computer Vision, including but not limited to: _Medical Image Segmentation_, _Semantic Segmentation_, _Semi-supervised Learning_, _Self-supervised Learning_.</div>
+<div style="text-align:justify;text-justify:inter-ideograph">I am a three-year M.S. student at the College of Computer Science and Software Engineering, Shenzhen University (SZU), supervised by Prof. <a href="https://www.scholat.com/laizhihui" target="_blank">Zhihui Lai</a>. Previously, I received my B.S. degree in Computer Science from Guilin University of Electronic Technology (GUET) in 2020. My research interests are in Computer Vision, including but not limited to: <i>Medical Image Segmentation</i>, <i>Semantic Segmentation</i>, <i>Semi-supervised Learning</i>, <i>Self-supervised Learning</i>.</div>
 
 <br>
 
@@ -18,13 +18,13 @@ layout: about
 ## Education
 
 - <b>Shenzhen University, <em>Shenzhen, Guangdong</em></b><br>
-  Sep 2020 - now： Master's degree of Computer Science.<br>
-  GPA: 3.36/4.0, Ranking 12/76<br>
-  Interest: Medical Image Segmentation / Semi-supervised Learning
+  <div>Sep 2020 - now： Master's degree of Computer Science.</div><br>
+  <div>GPA: 3.36/4.0, Ranking 12/76.</div><br>
+  <div>Interest: Medical Image Segmentation, Semi-supervised Learning.</div>
   
 - <b>Guilin University of Electronic Technology, <em>Guilin, Guangxi</em></b><br>
-  Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.<br>
-  GPA: 90.37/100, Ranking 2/181
+  <div>Sep 2016 - Jun 2020： Bachelor's degree of Computer Science.</div><br>
+  <div>GPA: 90.37/100, Ranking 2/181.</div>
 
 <br>
 
