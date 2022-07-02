@@ -240,6 +240,17 @@
 </li>
 {% endif %}
 
+{% if site.social.google_scholar %}
+<li>
+  <a href="https://scholar.google.com/citations?user={{ site.social.google_scholar }}" title="{{ site.social.default_txt }} Blog">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-graduation-cap fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
 {% if site.social.yuque %}
 <li>
   <a href="https://www.yuque.com/{{ site.social.yuque }}" title="{{ site.social.default_txt }} Blog">
