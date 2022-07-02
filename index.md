@@ -10,8 +10,9 @@ layout: about
 
 ## News!
 
-- <b>[Apr 2022] One paper accepted by IJCAI 2022</b><br>
-- [Mar 2021] One paper **TFNet** accepted by ACPR 2021 (oral)<br>
+- <b>[Apr 2022] One paper accepted by IJCAI 2022.</b><br>
+- [Dec 2021] Won The Second Prize of National Post-Graduate Mathematical Contest in Modeling.
+- [Mar 2021] One paper **TFNet** accepted by ACPR 2021. (oral)<br>
 
 <br>
 
@@ -33,18 +34,18 @@ layout: about
 > <b><a href="https://taovv.github.io/assets/UGPCL.pdf" target="_blank">Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation.</a></b>
 > [<a href="https://github.com/taovv/UGPCL" target="_blank">Code</a>][<a href="https://recorder-v3.slideslive.com/?share=66899&s=24d1d62b-b2fa-4ba4-b0a8-08749cf08120" target="_blank">Video</a>][<a href="https://www.aliyundrive.com/s/Xe8uB5kx2mi" target="_blank">Slide</a>]<br>
 > <b>Tao Wang</b>, Jianglin Lu, Zhihui Lai, Jiajun Wen, Heng Kong.<br>
-> <em>International Joint Conference on Artificial Intelligence</em> (<i><b>IJCAI</b></i>), 2022 <br>
+> <em>International Joint Conference on Artificial Intelligence</em> (<i><b>IJCAI</b></i>), 2022. <br>
 
 > <b><a href="https://taovv.github.io/assets/TFNet.pdf" target="_blank">TFNet: Transformer Fusion Network for Ultrasound Image Segmentation.</a></b> <br>
 > [<a href="https://github.com/taovv/TFNet" target="_blank">Code</a>][<a href="https://www.aliyundrive.com/s/oDdMwf4FrEs" target="_blank">Video</a>][<a href="https://www.aliyundrive.com/s/cc6HVyctitS" target="_blank">Slide</a>]<br>
 > <b>Tao Wang</b>, Zhihui Lai, Heng Kong.<br>
-> <em>IEEE Asian Conference on Pattern Recognition</em> (<i><b>ACPR</b></i>), 2021, Oral <br>
+> <em>IEEE Asian Conference on Pattern Recognition</em> (<i><b>ACPR</b></i>), 2021, Oral. <br>
 
 <br>
 
 ## Research Experience
 
-<b>Diagnosis and classification of multimodal breast tumors</b><br>
+<b>Diagnosis and classification of multimodal breast tumors.</b><br>
 <b>NSFC</b>, <em>Sep 2020 ~ now</em><br>
 Responsible for medical image segmentation algorithms in the project:
 - <div style="text-align:justify;text-justify:inter-ideograph">We collected and made two breast tumor ultrasound image data sets with segmentation annotations, and designed an ultrasound image segmentation model based on the two datasets. This work is in progress.</div>
@@ -69,14 +70,16 @@ Responsible for medical image segmentation algorithms in the project:
 
 ## Selected Awards & Scholarships
 
-- [2021] <b>National Post-Graduate Mathematical Contest in Modeling, _Second Prize_</b>(Top 2%)[🔗](https://taovv.github.io/assets/math_model.pdf)
-- [2018] "Lanqiao Cup" National Software and Information Technology Competition, _Third Prize_
-- [2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_
-- [2019] <b>China National Scholarship (Top 0.5% student)</b>
-- [2016] Guangxi Autonomous Region People's Government Scholarship (Top 2% student)
-- [2017,2018] National Encouragement Scholarship (Top 10% student)
-- [2017,2018,2019,2021] Excellent Academic Scholarship, _First Prize_ (Top 10% student)
-- [2020] Special Scholarship of Shenzhen University for Recommended Graduate
+- [2021] <b>National Post-Graduate Mathematical Contest in Modeling, _Second Prize_.</b>(Top 2%)[🔗](https://taovv.github.io/assets/math_model.pdf)
+- [2018] "Lanqiao Cup" National Software and Information Technology Competition, _Third Prize_.
+- [2018] "Internet +" College Students Innovation and Entrepreneurship Competition, _Second Prize_.
+- [2019] <b>China National Scholarship. (Top 0.5% student)</b>
+- [2016] Guangxi Autonomous Region People's Government Scholarship. (Top 2% student)
+- [2019] CASC Scholarship. (Top 2% student)
+- [2020] "Zhizao Shunde" Scholarship. (Top 0.2% student)
+- [2017,2018] National Encouragement Scholarship. (Top 10% student)
+- [2017,2018,2019,2021] Excellent Academic Scholarship, _First Prize_. (Top 10% student)
+- [2020] Special Scholarship of Shenzhen University for Recommended Graduate.
 
 <br>
 
