@@ -41,7 +41,7 @@ social:
   youtube:
   google_scholar: 6qUple4AAAAJ
   yuque: taoo
-  default_txt: "Follow On"
+  default_txt: ""
 
 # Build settings
 markdown: kramdown
