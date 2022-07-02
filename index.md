@@ -8,10 +8,10 @@ layout: about
 
 <br>
 
-## News!
+## <font color="red">News!</font>
 
-- <b>[Apr 2022] One paper accepted by IJCAI 2022.</b><br>
-- [Dec 2021] Won The Second Prize of National Post-Graduate Mathematical Contest in Modeling.
+- <b>[Apr 2022] One paper accepted by <font color="red">IJCAI 2022</font>.</b><br>
+- [Dec 2021] Won The Second Prize of <font color="red"><b>National Post-Graduate Mathematical Contest in Modeling</b></font>.
 - [Mar 2021] One paper **TFNet** accepted by ACPR 2021. (oral)<br>
 
 <br>
