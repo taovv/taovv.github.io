@@ -49,7 +49,7 @@ layout: about
 <b>NSFC</b>, <em>Sep 2020 ~ now</em><br>
 Responsible for medical image segmentation algorithms in the project:
 - <div style="text-align:justify;text-justify:inter-ideograph">We collected and made two breast tumor ultrasound image datasets with segmentation annotations, and designed an ultrasound image segmentation model based on the two datasets.</div>
-- <div style="text-align:justify;text-justify:inter-ideograph">A feature fusion network based on transformer is studied. This method aims to solve the problem of discontinuity of lesion area in ultrasound images under supervision. This work is published in ACPR 2021 as oral presentation.</div>
+- <div style="text-align:justify;text-justify:inter-ideograph">A feature fusion network based on transformer is studied. This method aims to solve the problem of discontinuity of lesion area in ultrasound images under supervision. This work was published in ACPR 2021 as oral presentation.</div>
 - <div style="text-align:justify;text-justify:inter-ideograph">We study a medical image segmentation algorithm based on pixel contrastive learning in semi-supervised environment. This method uses uncertainty to guide pixels with high confidence for contrastive learning, so as to make efficient use of unmarked data to improve the performance of the model. This work was published in IJCAI-ECAI 2022.</div>
 
 
