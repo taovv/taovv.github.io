@@ -3,7 +3,7 @@
   text-align: center;
   width: 100%;
   color: lighten(gray, 30%);
-  font-size: 0.75em;
+  font-size: 0.7em;
 
   .social-icons {
     ul {
@@ -11,6 +11,9 @@
       li {
         display: inline;
         color: #999;
+      }
+      a:hover{
+        color: #000;
       }
     }
   }
@@ -20,4 +23,5 @@
     padding: 0.1rem 0.1rem 0.1rem 0.1rem;
     color: #999;
   }
+
 }
