@@ -10,9 +10,9 @@ layout: about
 
 ## News!
 
-- [04/2022] One paper accepted by <font color="#CD2626">IJCAI 2022</font>.
-- [12/2021] Won The Second Prize of <font color="#CD2626">National Post-Graduate Mathematical Contest in Modeling</font>.
-- [09/2021] One paper TFNet accepted by ACPR 2021. (oral)<br>
+- [Apr 2022] One paper accepted by <font color="#CD2626">IJCAI 2022</font>.
+- [Dec 2021] Won The Second Prize of <font color="#CD2626">National Post-Graduate Mathematical Contest in Modeling</font>.
+- [Sep 2021] One paper TFNet accepted by ACPR 2021. (oral)<br>
 
 <br>
 
