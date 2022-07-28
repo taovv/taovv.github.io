@@ -31,7 +31,7 @@ layout: about
 
 ## Publications
 
-> <b><a href="https://taovv.github.io/assets/UGPCL.pdf" target="_blank">Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation.</a></b>
+> <b><a href="https://www.ijcai.org/proceedings/2022/201" target="_blank">Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation.</a></b>
 > [<a href="https://github.com/taovv/UGPCL" target="_blank">Code</a>][<a href="https://recorder-v3.slideslive.com/?share=66899&s=24d1d62b-b2fa-4ba4-b0a8-08749cf08120" target="_blank">Video</a>][<a href="https://www.aliyundrive.com/s/Xe8uB5kx2mi" target="_blank">Slide</a>]<br>
 > <b>Tao Wang</b>, Jianglin Lu, Zhihui Lai, Jiajun Wen, Heng Kong.<br>
 > <em>International Joint Conference on Artificial Intelligence</em> (<i><b>IJCAI</b></i>), 2022. (CCF A) <br>
